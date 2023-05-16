@@ -5,4 +5,3 @@ function humanizeDate() {
   return humanizedDate;
 }
 
-console.log(humanizeDate()); // "Domingo, 18 de diciembre de 2022"
